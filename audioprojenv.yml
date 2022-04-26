@@ -109,27 +109,6 @@ dependencies:
   - readline=8.1.2=h1a28f6b_1
   - requests=2.27.1=pyhd3eb1b0_0
   - resampy=0.2.2=py_0
-  - scikit-learn=1.0.2=py38h9197a36_1
-  - scipy=1.7.3=py38h2f0f56f_0
-  - setuptools=61.2.0=py38hca03da5_0
-  - six=1.16.0=pyhd3eb1b0_1
-  - sqlite=3.38.2=h1058600_0
-  - stack_data=0.2.0=pyhd3eb1b0_0
-  - tbb=2021.5.0=h3e96240_1
-  - threadpoolctl=3.1.0=pyh8a188c0_0
-  - tk=8.6.11=hb8d0fd4_0
-  - tornado=6.1=py38h1a28f6b_0
-  - tqdm=4.63.0=pyhd3eb1b0_0
-  - traitlets=5.1.1=pyhd3eb1b0_0
-  - urllib3=1.26.9=py38hca03da5_0
-  - validators=0.18.2=pyhd3eb1b0_0
-  - wcwidth=0.2.5=pyhd3eb1b0_0
-  - wheel=0.37.1=pyhd3eb1b0_0
-  - x264=1!161.3030=h3422bc3_1
-  - xz=5.2.5=h1a28f6b_0
-  - zeromq=4.3.4=hc377ac9_0
-  - zlib=1.2.12=h5a0b063_2
-  - zstd=1.5.2=h8574219_0
-  - pip:
-    - pickle5==0.0.11
-prefix: /opt/homebrew/Caskroom/miniconda/base/envs/amlproj
+  - scikit-learn=1.0.2
+  - scipy=1.7.3
+  - validators=0.18.2
